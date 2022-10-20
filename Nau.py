@@ -9,7 +9,7 @@ class Nau:
         self.x=self.x+self.incr
         
     def moure_esquerre(self):
-        pass
+        self.x=self.x+self.incr
 
     def moure_amunt(self):
         pass
